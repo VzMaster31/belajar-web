@@ -1,0 +1,12 @@
+h1 {
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+p {
+    color: blue;
+    font-size: 110%;
+}
+
+abbr {
+    text-decoration: none;
+}
